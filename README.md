@@ -1,6 +1,8 @@
 # Consistency Distillation for Stable Diffusion 1.5
 
 Implemented as a final project for Yandex School of Data Analysis course on Diffusion Models, this notebook implements **Consistency Distillation** techniques to accelerate Stable Diffusion 1.5 from 50 inference steps down to just 4 steps while maintaining image quality. I generated some fancy pictures at the end of the notebook, please take a look!
+<img width="929" height="217" alt="image" src="https://github.com/user-attachments/assets/a1d19233-aa7e-4e9a-b884-a70c471e50ed" />
+
 
 ## Overview
 
